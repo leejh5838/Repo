@@ -6,7 +6,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
-
+// 주석
 public class MainActivity extends AppCompatActivity {
     EditText edit1, edit2;
     Button btnAdd, btnSub, btnMul, btnDiv;
